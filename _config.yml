@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 这个需求很简单，怎么实现我不会
+title: 这个需求很简单，怎么实现我不会!
 email: ice123149587@gmail.com
 author: maohuiling
 
