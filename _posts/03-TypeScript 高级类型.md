@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TypeScript 高级类型
+categories: TS
 ---
 
 # TypeScript 高级类型
